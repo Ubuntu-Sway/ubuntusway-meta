@@ -44,7 +44,7 @@ imv
 inxi
 kerneloops
 laptop-detect
-libfuse2
+libfuse2t64
 libnss-mdns
 libreoffice-calc
 libreoffice-gtk3
@@ -59,7 +59,7 @@ neofetch
 neovim
 packagekit
 pavucontrol
-pcmanfm-gtk3
+pcmanfm
 pcmciautils
 plocate
 pluma

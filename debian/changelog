@@ -1,4 +1,4 @@
-ubuntu-sway-meta (1.66~noblf) UNRELEASED; urgency=medium
+ubuntu-sway-meta (1.66~noblg) UNRELEASED; urgency=medium
 
   * Refreshed dependencies
   * Added acpi to desktop, desktop-raspi
@@ -15,8 +15,14 @@ ubuntu-sway-meta (1.66~noblf) UNRELEASED; urgency=medium
   * Moved system-config-printer to desktop-raspi-recommends, desktop-
     recommends
   * Moved xwayland to desktop-raspi-recommends, desktop-recommends
+  * Refreshed dependencies
+  * Added libfuse2t64 to desktop-raspi-recommends, desktop-recommends
+  * Added pcmanfm to desktop-raspi-recommends, desktop-recommends
+  * Removed libfuse2 from desktop-raspi-recommends, desktop-recommends
+  * Removed pcmanfm-gtk3 from desktop-raspi-recommends, desktop-
+    recommends
 
- -- root <root@dd3d0cf78935>  Tue, 26 Mar 2024 09:39:24 +0000
+ -- root <root@67fcac041a66>  Sun, 23 Jun 2024 10:30:39 +0000
 
 ubuntu-sway-meta (1.66~noble) noble; urgency=medium
 
