@@ -1,5 +1,6 @@
-ubuntu-sway-meta (1.66~noblg) UNRELEASED; urgency=medium
+ubuntu-sway-meta (1.68~noble) noble; urgency=medium
 
+  [ root ]
   * Refreshed dependencies
   * Added acpi to desktop, desktop-raspi
   * Added gnome-software to desktop-raspi-recommends, desktop-recommends
@@ -22,7 +23,10 @@ ubuntu-sway-meta (1.66~noblg) UNRELEASED; urgency=medium
   * Removed pcmanfm-gtk3 from desktop-raspi-recommends, desktop-
     recommends
 
- -- root <root@67fcac041a66>  Sun, 23 Jun 2024 10:30:39 +0000
+  [ Aleksey Samoilov ]
+  * Update packages
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sun, 23 Jun 2024 14:34:09 +0400
 
 ubuntu-sway-meta (1.66~noble) noble; urgency=medium
 
