@@ -1,3 +1,9 @@
+ubuntu-sway-meta (1.69~oracular) oracular; urgency=medium
+
+  * Oracular upload
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sun, 28 Jul 2024 11:37:42 +0400
+
 ubuntu-sway-meta (1.68~noble) noble; urgency=medium
 
   [ root ]
