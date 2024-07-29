@@ -1,3 +1,56 @@
+ubuntu-sway-meta (1.69~oraculas) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added dhcpcd-base to minimal
+  * Added ethtool to standard-recommends
+  * Added firefox to desktop-raspi-recommends [arm64], desktop-
+    recommends [arm64]
+  * Added fontconfig to desktop, desktop-raspi
+  * Added fonts-noto-core to desktop-raspi-recommends, desktop-
+    recommends
+  * Added iw to desktop, desktop-raspi
+  * Added numactl to standard-recommends
+  * Added snapd to desktop-raspi-recommends, desktop-recommends
+  * Added sysstat to standard-recommends
+  * Added trace-cmd to standard-recommends
+  * Added tuigreet to desktop-raspi-recommends, desktop-recommends
+  * Added ubuntu-pro-client to minimal
+  * Added xorg to desktop, desktop-raspi
+  * Removed fonts-freefont-ttf from desktop, desktop-raspi
+  * Removed fonts-indic from desktop-raspi-recommends, desktop-
+    recommends
+  * Removed fonts-kacst-one from desktop-raspi-recommends, desktop-
+    recommends
+  * Removed fonts-khmeros-core from desktop-raspi-recommends, desktop-
+    recommends
+  * Removed fonts-lao from desktop-raspi-recommends, desktop-recommends
+  * Removed fonts-lklug-sinhala from desktop-raspi-recommends, desktop-
+    recommends
+  * Removed fonts-sil-abyssinica from desktop-raspi-recommends, desktop-
+    recommends
+  * Removed fonts-sil-padauk from desktop-raspi-recommends, desktop-
+    recommends
+  * Removed fonts-thai-tlwg from desktop-raspi-recommends, desktop-
+    recommends
+  * Removed fonts-tibetan-machine from desktop-raspi-recommends,
+    desktop-recommends
+  * Removed greetd-tuigreet from desktop-raspi-recommends, desktop-
+    recommends
+  * Removed irqbalance from standard-recommends
+  * Removed kerneloops from desktop-raspi-recommends, desktop-recommends
+  * Removed libraspberrypi0 from desktop-raspi [arm64]
+  * Removed qutebrowser from desktop-raspi-recommends, desktop-
+    recommends
+  * Removed thunderbird from desktop-raspi-recommends, desktop-
+    recommends
+  * Removed transmission-gtk from desktop-raspi-recommends, desktop-
+    recommends
+  * Removed ubuntu-sway-desktop from desktop-raspi
+  * Removed wireless-tools from desktop, desktop-raspi
+  * Moved bluez-obexd to desktop, desktop-raspi
+
+ -- root <root@f2630f479074>  Mon, 29 Jul 2024 15:35:26 +0000
+
 ubuntu-sway-meta (1.69~oracular) oracular; urgency=medium
 
   * Oracular upload

@@ -5,6 +5,7 @@ anacron
 autotiling
 azote
 bc
+bluez-obexd
 breeze-cursor-theme
 brightnessctl
 ca-certificates
@@ -12,10 +13,10 @@ calcurse
 cliphist
 cloud-initramfs-growroot
 curl
+fontconfig
 fonts-dejavu-core
 fonts-font-awesome
 fonts-font-awesome-6
-fonts-freefont-ttf
 fonts-hack
 foomatic-db-compressed-ppds
 ghostscript
@@ -30,6 +31,7 @@ gvfs-backends
 gvfs-fuse
 inotify-tools
 inputattach
+iw
 kanshi
 language-selector-common
 libglib2.0-bin
@@ -75,13 +77,11 @@ ubuntu-drivers-common
 ubuntu-raspi-settings
 ubuntu-sway-artwork
 ubuntu-sway-default-settings
-ubuntu-sway-desktop
 ubuntu-sway-grub-theme
 unzip
 usb-modeswitch
 waybar
 wf-recorder
-wireless-tools
 wl-clipboard
 wlsunset
 wpasupplicant
@@ -90,5 +90,6 @@ xdg-desktop-portal-gtk
 xdg-desktop-portal-wlr
 xdg-user-dirs
 xkb-data
+xorg
 xsettingsd
 zip

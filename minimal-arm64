@@ -4,6 +4,7 @@ apt-utils
 console-setup
 debconf
 debconf-i18n
+dhcpcd-base
 e2fsprogs
 eject
 init
@@ -27,6 +28,7 @@ sudo
 tzdata
 ubuntu-keyring
 ubuntu-minimal
+ubuntu-pro-client
 udev
 vim-tiny
 whiptail

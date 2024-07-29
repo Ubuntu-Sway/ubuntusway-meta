@@ -5,6 +5,7 @@ anacron
 autotiling
 azote
 bc
+bluez-obexd
 breeze-cursor-theme
 brightnessctl
 ca-certificates
@@ -13,10 +14,10 @@ cliphist
 cloud-initramfs-growroot
 curl
 flash-kernel
+fontconfig
 fonts-dejavu-core
 fonts-font-awesome
 fonts-font-awesome-6
-fonts-freefont-ttf
 fonts-hack
 foomatic-db-compressed-ppds
 ghostscript
@@ -31,11 +32,11 @@ gvfs-backends
 gvfs-fuse
 inotify-tools
 inputattach
+iw
 kanshi
 language-selector-common
 libglib2.0-bin
 libraspberrypi-bin
-libraspberrypi0
 libsasl2-modules
 libu2f-udev
 mako-notifier
@@ -77,14 +78,12 @@ swayr
 ubuntu-drivers-common
 ubuntu-raspi-settings
 ubuntu-sway-artwork
-ubuntu-sway-desktop
 ubuntu-sway-grub-theme
 ubuntu-sway-raspi-settings
 unzip
 usb-modeswitch
 waybar
 wf-recorder
-wireless-tools
 wl-clipboard
 wlsunset
 wpasupplicant
@@ -93,5 +92,6 @@ xdg-desktop-portal-gtk
 xdg-desktop-portal-wlr
 xdg-user-dirs
 xkb-data
+xorg
 xsettingsd
 zip
