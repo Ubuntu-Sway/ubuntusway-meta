@@ -1,5 +1,6 @@
-ubuntu-sway-meta (1.69~oraculas) UNRELEASED; urgency=medium
+ubuntu-sway-meta (1.70~oracular) oracular; urgency=medium
 
+  [ root ]
   * Refreshed dependencies
   * Added dhcpcd-base to minimal
   * Added ethtool to standard-recommends
@@ -49,7 +50,10 @@ ubuntu-sway-meta (1.69~oraculas) UNRELEASED; urgency=medium
   * Removed wireless-tools from desktop, desktop-raspi
   * Moved bluez-obexd to desktop, desktop-raspi
 
- -- root <root@f2630f479074>  Mon, 29 Jul 2024 15:35:26 +0000
+  [ Aleksey Samoilov ]
+  * Initial Oracular build
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Mon, 29 Jul 2024 19:36:06 +0400
 
 ubuntu-sway-meta (1.69~oracular) oracular; urgency=medium
 
