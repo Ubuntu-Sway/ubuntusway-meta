@@ -1,12 +1,16 @@
-ubuntu-sway-meta (1.70~oraculas) UNRELEASED; urgency=medium
+ubuntu-sway-meta (1.71~oracular) oracular; urgency=medium
 
+  [ root ]
   * Refreshed dependencies
   * Added ubuntu-sway-desktop to desktop-raspi
   * Removed firefox from desktop-raspi-recommends, desktop-recommends
   * Moved ubuntu-sway-default-settings to desktop-raspi-recommends
     [amd64], desktop-recommends [amd64]
 
- -- root <root@2e88ee8b4119>  Sun, 04 Aug 2024 07:44:24 +0000
+  [ Aleksey Samoilov ]
+  * Revert Snap support (needs more work)
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sun, 04 Aug 2024 11:45:00 +0400
 
 ubuntu-sway-meta (1.70~oracular) oracular; urgency=medium
 
