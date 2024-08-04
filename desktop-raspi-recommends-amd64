@@ -12,7 +12,6 @@ cups-filters
 desktop-file-utils
 drm-info
 engrampa
-firefox
 fonts-arphic-ukai
 fonts-arphic-uming
 fonts-liberation
@@ -77,6 +76,7 @@ systemd-oomd
 thermald
 tlp
 tuigreet
+ubuntu-sway-default-settings
 ubuntu-sway-welcome
 udisks2
 update-notifier

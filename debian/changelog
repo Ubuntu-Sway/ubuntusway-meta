@@ -1,3 +1,13 @@
+ubuntu-sway-meta (1.70~oraculas) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added ubuntu-sway-desktop to desktop-raspi
+  * Removed firefox from desktop-raspi-recommends, desktop-recommends
+  * Moved ubuntu-sway-default-settings to desktop-raspi-recommends
+    [amd64], desktop-recommends [amd64]
+
+ -- root <root@2e88ee8b4119>  Sun, 04 Aug 2024 07:44:24 +0000
+
 ubuntu-sway-meta (1.70~oracular) oracular; urgency=medium
 
   [ root ]

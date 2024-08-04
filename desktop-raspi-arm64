@@ -78,6 +78,7 @@ swayr
 ubuntu-drivers-common
 ubuntu-raspi-settings
 ubuntu-sway-artwork
+ubuntu-sway-desktop
 ubuntu-sway-grub-theme
 ubuntu-sway-raspi-settings
 unzip
