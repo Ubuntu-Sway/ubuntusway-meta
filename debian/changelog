@@ -1,3 +1,11 @@
+ubuntu-sway-meta (1.71~oraculas) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added fuzzel to desktop-raspi-recommends, desktop-recommends
+  * Added nwg-clipman to desktop, desktop-raspi
+
+ -- root <root@773a63670346>  Sat, 17 Aug 2024 16:04:08 +0000
+
 ubuntu-sway-meta (1.71~oracular) oracular; urgency=medium
 
   [ root ]
