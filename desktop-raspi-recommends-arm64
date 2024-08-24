@@ -65,7 +65,6 @@ printer-driver-pxljr
 printer-driver-sag-gdi
 printer-driver-splix
 ranger
-rofi-wayland
 simple-scan
 snapd
 software-properties-gtk

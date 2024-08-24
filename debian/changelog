@@ -1,3 +1,11 @@
+ubuntu-sway-meta (1.72~oraculas) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Removed rofi-wayland from desktop-raspi-recommends, desktop-
+    recommends
+
+ -- root <root@d07431a76a08>  Sat, 24 Aug 2024 14:40:08 +0000
+
 ubuntu-sway-meta (1.72~oracular) oracular; urgency=medium
 
   [ root ]
