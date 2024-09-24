@@ -4,7 +4,6 @@ casper
 cifs-utils
 cryptsetup
 discover
-dmraid
 expect
 gparted
 grub-pc
@@ -40,6 +39,7 @@ language-pack-pt
 language-pack-ru
 language-pack-zh-hans
 lvm2
+mdadm
 mokutil
 os-prober
 reiserfsprogs

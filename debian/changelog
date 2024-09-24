@@ -1,3 +1,12 @@
+ubuntu-sway-meta (1.74~oracular) oracular; urgency=medium
+
+  * Refreshed dependencies
+  * Added login to minimal
+  * Added mdadm to live
+  * Removed dmraid from live
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Tue, 24 Sep 2024 19:31:32 +0400
+
 ubuntu-sway-meta (1.73~oracular) oracular; urgency=medium
 
   [ root ]

@@ -4,7 +4,6 @@ casper
 cifs-utils
 cryptsetup
 discover
-dmraid
 expect
 gparted
 hunspell-de-at-frami
@@ -39,6 +38,7 @@ language-pack-pt
 language-pack-ru
 language-pack-zh-hans
 lvm2
+mdadm
 os-prober
 reiserfsprogs
 wamerican
